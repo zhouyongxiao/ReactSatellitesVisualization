@@ -1,3 +1,14 @@
+# Satellites Trajectory Visualization
+
+-Developed an interactive web page with ReactJS and D3 to visualize satellites geo-locations in real time
+
+-Created selectors for users to customize and refine search region
+
+-Utilized ReactJS to fetch data and animate geo-data onto world map
+
+-Deployed the web page to AWS for public access and scalability
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
